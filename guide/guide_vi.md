@@ -23,6 +23,7 @@
  ![openpgp-keypair-genarate.png](openpgp-keypair-genarate.png)
  3. Sau khi điền đầy đủ thông tin yêu cầu, chọn **OK** để tiến hành khởi tạo cặp khóa. Cặp khóa được khởi tạo sẽ được hiển thị như trong hình.<br/>
  ![openpgp-keypair-config.png](openpgp-keypair-config.png)
+ Sau khi thực hiện các bước 1-2-3, người dùng bấm **Save** để hoàn thành thao tác khởi tạo cặp khóa.
  4. Người dùng có thể gửi khóa công khai (Public key) đến máy chủ (thao tác này sẽ giúp người dùng khác có thể tìm kiếm được khóa công khai của bạn) bằng cách bấm vào tùy chọn **Submit to key server**.
  5. Trong trường hợp cần gửi khóa công khai của mình đến người khác, người dùng có thể chọn **Send public key**. Một cửa sổ soạn thạo thư mới sẽ xuất hiện cho phép bạn gửi khóa công khai của bạn cho người nhận.<br/>
  ![openpgp-public-key-send.png](openpgp-public-key-send.png)
